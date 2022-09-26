@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">comiida</string>
+    <string name="facebook_app_id">316076636776987</string>
+    <string name="fb_login_protocol_scheme">fb316076636776987</string>
+</resources>
+

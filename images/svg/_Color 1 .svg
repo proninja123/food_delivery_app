@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 15" width="12" height="15">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #535b72 } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="location-map 1 ">
+				<path id=" Color 1 " fill-rule="evenodd" class="shp0" d="M6.24 14.5C5.86 14.5 5.5 14.37 5.22 14.13C3.45 12.68 0.47 9.73 0.47 6.26C0.47 3.08 3.05 0.5 6.24 0.5C9.42 0.5 12 3.08 12 6.26C12 9.73 9.02 12.68 7.25 14.13C6.97 14.37 6.61 14.5 6.24 14.5ZM6.24 3.7C5.18 3.7 4.32 4.56 4.32 5.62C4.32 6.68 5.18 7.54 6.24 7.54C7.3 7.54 8.16 6.68 8.16 5.62C8.15 4.56 7.3 3.7 6.24 3.7Z" />
+			</g>
+		</g>
+	</g>
+</svg>
